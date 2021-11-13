@@ -28,9 +28,9 @@ For driver counts by city type, a box-and-whisker plot and a pie chart was devel
 ### Fare Counts by City Type
 For fare counts by city type, a box-and-whisker plot and a pie chart was once again developed. In the box-and-whisker plot, there are no outliers. The average fare is of $36 for urban, $25 for suburban, and $31 for rural. When this data is applied to the pie chart it conveys fares for each city into a percentage of total fares. Urban’s percentage is 62.7%, suburban is 30.5%, and rural is 6.8%
 
-![/Analysis/Fig5.png]( /Analysis/Fig5.png)
-
 ![/Analysis/Fig3.png]( /Analysis/Fig3.png)
+
+![/Analysis/Fig5.png]( /Analysis/Fig5.png)
 
 ### Total Fares by City Type
 For total fares by city type, a multiple-line graph was developed to show total weekly fares for each city type. Urban cities have the highest revenue, higher than suburban, which is are both higher than rural. 
