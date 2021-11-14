@@ -27,6 +27,7 @@ For fare counts by city type, a box-and-whisker plot and a pie chart was once ag
 
 ### Total Fares by City Type
 For total fares by city type, a multiple-line graph was developed to show total weekly fares for each city type. Urban cities have the highest revenue, higher than suburban, which is are both higher than rural. 
+
 ![/Analysis/PyBer_fare_summary.png]( /Analysis/PyBer_fare_summary.png)
 
 
